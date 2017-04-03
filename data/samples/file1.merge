@@ -1,0 +1,918 @@
+0	1	Energetic	energetic	JJ	amod	4	O	 (ROOT (S (S (NP (ADJP (JJ Energetic)	1	1
+0	2	and	and	CC	cc	1	O	 (CC and)	1	1
+0	3	concrete	concrete	JJ	conj	1	O	 (JJ concrete))	1	1
+0	4	action	action	NN	nsubjpass	7	O	 (NN action))	1	1
+0	5	has	have	VBZ	aux	7	O	 (VP (VBZ has)	1	1
+0	6	been	be	VBN	auxpass	7	O	 (VP (VBN been)	1	1
+0	7	taken	take	VBN	root	0	O	 (VP (VBN taken)	1	1
+0	8	in	in	IN	case	9	O	 (PP (IN in)	1	1
+0	9	Colombia	Colombia	NNP	nmod	7	LOCATION	 (NP (NNP Colombia)))	1	1
+0	10	during	during	IN	case	14	O	 (PP (IN during)	1	1
+0	11	the	the	DT	det	14	DURATION	 (NP (DT the)	1	1
+0	12	past	past	JJ	amod	14	DURATION	 (JJ past)	1	1
+0	13	60	60	CD	nummod	14	DURATION	 (CD 60)	1	1
+0	14	days	day	NNS	nmod	7	DURATION	 (NNS days)))	1	1
+0	15	against	against	IN	case	17	O	 (PP (IN against)	1	1
+0	16	the	the	DT	det	17	O	 (NP (NP (DT the)	1	1
+0	17	mafiosi	mafioso	NNS	nmod	7	O	 (NNS mafiosi))	1	1
+0	18	of	of	IN	case	21	O	 (PP (IN of)	1	1
+0	19	the	the	DT	det	21	O	 (NP (DT the)	1	1
+0	20	drug	drug	NN	compound	21	O	 (NN drug)	1	1
+0	21	trade	trade	NN	nmod	17	O	 (NN trade)))))))))	1	1
+0	22	,	,	,	punct	7	O	 (, ,)	1	1
+0	23	but	but	CC	cc	7	O	 (CC but)	2	1
+0	24	it	it	PRP	nsubj	29	O	 (S (NP (PRP it))	2	1
+0	25	has	have	VBZ	aux	29	O	 (VP (VBZ has)	2	1
+0	26	not	not	RB	neg	29	O	 (RB not)	2	1
+0	27	been	be	VBN	cop	29	O	 (VP (VBN been)	2	1
+0	28	sufficiently	sufficiently	RB	advmod	29	O	 (ADJP (RB sufficiently)	2	1
+0	29	effective	effective	JJ	conj	7	O	 (JJ effective))	2	1
+0	30	,	,	,	punct	29	O	 (, ,)	2	1
+0	31	because	because	IN	mark	36	O	 (SBAR (IN because)	3	1
+0	32	,	,	,	punct	36	O	 (S (, ,)	3	1
+0	33	unfortunately	unfortunately	RB	advmod	36	O	 (ADVP (RB unfortunately))	3	1
+0	34	,	,	,	punct	36	O	 (, ,)	3	1
+0	35	it	it	PRP	nsubj	36	O	 (NP (PRP it))	3	1
+0	36	came	come	VBD	advcl	29	O	 (VP (VBD came)	3	1
+0	37	too	too	RB	advmod	38	O	 (ADJP (RB too)	3	1
+0	38	late	late	JJ	xcomp	36	O	 (JJ late))))))))	3	1
+0	39	.	.	.	punct	7	O	 (. .)))	3	1
+1	1	Ten	ten	CD	nummod	2	DATE	 (ROOT (S (ADVP (NP (CD Ten)	4	1
+1	2	years	year	NNS	nmod:npmod	3	DATE	 (NNS years))	4	1
+1	3	ago	ago	RB	advmod	18	DATE	 (RB ago))	4	1
+1	4	,	,	,	punct	18	O	 (, ,)	4	1
+1	5	the	the	DT	det	8	O	 (NP (NP (DT the)	4	1
+1	6	newspaper	newspaper	NN	compound	8	O	 (NN newspaper)	4	1
+1	7	El	El	NNP	compound	8	ORGANIZATION	 (NNP El)	4	1
+1	8	Espectador	Espectador	NNP	nsubj	18	ORGANIZATION	 (NNP Espectador))	4	1
+1	9	,	,	,	punct	8	O	 (, ,)	4	1
+1	10	of	of	IN	case	11	O	 (SBAR (WHPP (IN of)	5	1
+1	11	which	which	WDT	nmod	16	O	 (WHNP (WDT which)))	5	1
+1	12	my	my	PRP$	nmod:poss	14	O	 (S (NP (PRP$ my)	5	1
+1	13	brother	brother	NN	compound	14	O	 (NN brother)	5	1
+1	14	Guillermo	Guillermo	NNP	nsubj	16	PERSON	 (NNP Guillermo))	5	1
+1	15	was	be	VBD	cop	16	O	 (VP (VBD was)	5	1
+1	16	editor	editor	NN	acl:relcl	8	O	 (NP (NN editor)))))	5	1
+1	17	,	,	,	punct	8	O	 (, ,))	5	1
+1	18	began	begin	VBD	root	0	O	 (VP (VBD began)	6	1
+1	19	warning	warn	VBG	xcomp	18	O	 (S (VP (VBG warning)	6	1
+1	20	of	of	IN	case	22	O	 (PP (PP (IN of)	6	1
+1	21	the	the	DT	det	22	O	 (NP (NP (DT the)	6	1
+1	22	rise	rise	NN	nmod	19	O	 (NN rise))	6	1
+1	23	of	of	IN	case	26	O	 (PP (IN of)	6	1
+1	24	the	the	DT	det	26	O	 (NP (DT the)	6	1
+1	25	drug	drug	NN	compound	26	O	 (NN drug)	6	1
+1	26	mafias	mafia	NNS	nmod	22	O	 (NNS mafias)))))	6	1
+1	27	and	and	CC	cc	22	O	 (CC and)	6	1
+1	28	of	of	IN	case	32	O	 (PP (IN of)	6	1
+1	29	their	they	PRP$	nmod:poss	30	O	 (NP (NP (PRP$ their)	6	1
+1	30	leaders	leader	NNS	nmod:poss	32	O	 (NNS leaders)	6	1
+1	31	'	'	POS	case	30	O	 (POS '))	6	1
+1	32	aspirations	aspiration	NNS	conj	22	O	 (NNS aspirations)	6	1
+1	33	to	to	TO	mark	34	O	 (S (VP (TO to)	7	1
+1	34	control	control	VB	acl	32	O	 (VP (VB control)	7	1
+1	35	Colombian	colombian	JJ	amod	36	MISC	 (NP (NP (JJ Colombian)	7	1
+1	36	politics	politics	NNS	dobj	34	O	 (NNS politics))	7	1
+1	37	,	,	,	punct	36	O	 (, ,)	7	1
+1	38	especially	especially	RB	advmod	36	O	 (RB especially)	7	1
+1	39	the	the	DT	det	40	O	 (NP (DT the)	7	1
+1	40	Congress	Congress	NNP	dep	36	ORGANIZATION	 (NNP Congress))))))))))))	7	1
+1	41	.	.	.	punct	18	O	 (. .)))	7	1
+2	1	Then	then	RB	advmod	15	O	 (ROOT (S (ADVP (RB Then))	8	1
+2	2	,	,	,	punct	15	O	 (, ,)	8	1
+2	3	when	when	WRB	advmod	8	O	 (S (SBAR (WHADVP (WRB when))	9	1
+2	4	it	it	PRP	nsubj	8	O	 (S (NP (PRP it))	9	1
+2	5	would	would	MD	aux	8	O	 (VP (MD would)	9	1
+2	6	have	have	VB	aux	8	O	 (VP (VB have)	9	1
+2	7	been	be	VBN	cop	8	O	 (VP (VBN been)	9	1
+2	8	easier	easier	JJR	advcl	15	O	 (ADJP (JJR easier))	9	1
+2	9	to	to	TO	mark	10	O	 (S (VP (TO to)	9	1
+2	10	resist	resist	VB	xcomp	8	O	 (VP (VB resist)	9	1
+2	11	them	they	PRP	dobj	10	O	 (NP (PRP them))))))))))	9	1
+2	12	,	,	,	punct	15	O	 (, ,)	9	1
+2	13	nothing	nothing	NN	nsubjpass	15	O	 (NP (NN nothing))	10	1
+2	14	was	be	VBD	auxpass	15	O	 (VP (VBD was)	10	1
+2	15	done	do	VBN	root	0	O	 (VP (VBN done))))	10	1
+2	16	and	and	CC	cc	15	O	 (CC and)	11	1
+2	17	my	my	PRP$	nmod:poss	18	O	 (S (NP (PRP$ my)	11	1
+2	18	brother	brother	NN	nsubjpass	20	O	 (NN brother))	11	1
+2	19	was	be	VBD	auxpass	20	O	 (VP (VBD was)	11	1
+2	20	murdered	murder	VBN	conj	15	O	 (VP (VBN murdered)	11	1
+2	21	by	by	IN	case	24	O	 (PP (IN by)	11	1
+2	22	the	the	DT	det	24	O	 (NP (DT the)	11	1
+2	23	drug	drug	NN	compound	24	O	 (NN drug)	11	1
+2	24	mafias	mafia	NNS	nmod	20	O	 (NNS mafias))	11	1
+2	25	three	three	CD	nummod	26	DATE	 (ADVP (NP (CD three)	11	1
+2	26	years	year	NNS	nmod:npmod	27	DATE	 (NNS years))	11	1
+2	27	ago	ago	RB	advmod	24	DATE	 (RB ago))))))	11	1
+2	28	.	.	.	punct	15	O	 (. .)))	11	1
+3	1	The	the	DT	det	4	O	 (ROOT (S (NP (DT The)	12	1
+3	2	most	most	RBS	advmod	3	O	 (ADJP (RBS most)	12	1
+3	3	ruthless	ruthless	JJ	amod	4	O	 (JJ ruthless))	12	1
+3	4	dictatorships	dictatorship	NNS	nsubj	7	O	 (NNS dictatorships))	12	1
+3	5	have	have	VBP	aux	7	O	 (VP (VBP have)	12	1
+3	6	not	not	RB	neg	7	O	 (RB not)	12	1
+3	7	censored	censor	VBN	root	0	O	 (VP (VBN censored)	12	1
+3	8	their	they	PRP$	nmod:poss	9	O	 (NP (PRP$ their)	12	1
+3	9	press	press	NN	dobj	7	O	 (NN press))	12	1
+3	10	more	more	RBR	advmod	11	O	 (ADVP (ADVP (RBR more)	12	1
+3	11	brutally	brutally	RB	advmod	7	O	 (RB brutally))	12	1
+3	12	than	than	IN	mark	16	O	 (SBAR (IN than)	12	1
+3	13	the	the	DT	det	15	O	 (S (NP (DT the)	12	1
+3	14	drug	drug	NN	compound	15	O	 (NN drug)	12	1
+3	15	mafias	mafia	NNS	nsubj	16	O	 (NNS mafias))	12	1
+3	16	censor	censor	VBP	advcl	11	O	 (VP (VBP censor)	12	1
+3	17	Colombia	Colombia	NNP	dobj	16	LOCATION	 (NP (NNP Colombia)	12	1
+3	18	's	's	POS	case	17	O	 (POS 's))))))))	12	1
+3	19	.	.	.	punct	7	O	 (. .)))	12	1
+4	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	13	1
+4	2	censorship	censorship	NN	nsubjpass	4	O	 (NN censorship))	13	1
+4	3	is	be	VBZ	auxpass	4	O	 (VP (VBZ is)	13	1
+4	4	enforced	enforce	VBN	root	0	O	 (VP (VBN enforced)	13	1
+4	5	through	through	IN	case	6	O	 (PP (IN through)	13	1
+4	6	terrorism	terrorism	NN	nmod	4	O	 (NP (NN terrorism)	13	1
+4	7	and	and	CC	cc	6	O	 (CC and)	13	1
+4	8	assassination	assassination	NN	conj	6	O	 (NN assassination)))))	13	1
+4	9	.	.	.	punct	4	O	 (. .)))	13	1
+5	1	In	in	IN	case	5	O	 (ROOT (S (PP (IN In)	14	1
+5	2	the	the	DT	det	5	DURATION	 (NP (NP (DT the)	14	1
+5	3	past	past	JJ	amod	5	DURATION	 (JJ past)	14	1
+5	4	10	10	CD	nummod	5	DURATION	 (CD 10)	14	1
+5	5	years	year	NNS	nmod	11	DURATION	 (NNS years))	14	1
+5	6	about	about	IN	case	7	O	 (PP (IN about)	14	1
+5	7	50	50	CD	nmod	5	NUMBER	 (NP (CD 50)))))	14	1
+5	8	journalists	journalist	NNS	nsubjpass	11	O	 (NP (NNS journalists))	14	1
+5	9	have	have	VBP	aux	11	O	 (VP (VBP have)	14	1
+5	10	been	be	VBN	auxpass	11	O	 (VP (VBN been)	14	1
+5	11	silenced	silence	VBN	root	0	O	 (VP (VBN silenced)	14	1
+5	12	forever	forever	RB	advmod	11	O	 (ADVP (RB forever))	14	1
+5	13	,	,	,	punct	11	O	 (, ,)	14	1
+5	14	murdered	murder	VBN	dep	11	O	 (S (VP (VBN murdered))))))	14	1
+5	15	.	.	.	punct	11	O	 (. .)))	14	1
+6	1	Within	within	IN	case	5	O	 (ROOT (S (PP (IN Within)	15	1
+6	2	the	the	DT	det	5	DURATION	 (NP (DT the)	15	1
+6	3	past	past	JJ	amod	5	DURATION	 (JJ past)	15	1
+6	4	two	two	CD	nummod	5	DURATION	 (CD two)	15	1
+6	5	months	month	NNS	nmod	8	DURATION	 (NNS months)))	15	1
+6	6	a	a	DT	det	7	O	 (NP (DT a)	15	1
+6	7	bomb	bomb	NN	nsubj	8	O	 (NN bomb))	15	1
+6	8	exploded	explode	VBD	root	0	O	 (VP (VBD exploded)	15	1
+6	9	in	in	IN	case	11	O	 (PP (IN in)	15	1
+6	10	the	the	DT	det	11	O	 (NP (NP (DT the)	15	1
+6	11	offices	office	NNS	nmod	8	O	 (NNS offices))	15	1
+6	12	of	of	IN	case	15	O	 (PP (IN of)	15	1
+6	13	the	the	DT	det	15	O	 (NP (DT the)	15	1
+6	14	El	El	NNP	compound	15	LOCATION	 (NNP El)	15	1
+6	15	Espectador	Espectador	NNP	nmod	11	LOCATION	 (NNP Espectador)))))	15	1
+6	16	in	in	IN	case	17	O	 (PP (IN in)	15	1
+6	17	Bogota	Bogota	NNP	nmod	8	LOCATION	 (NP (NNP Bogota)))	15	1
+6	18	,	,	,	punct	8	O	 (, ,)	15	1
+6	19	destroying	destroy	VBG	xcomp	8	O	 (S (VP (VBG destroying)	16	1
+6	20	a	a	DT	det	22	O	 (NP (NP (DT a)	16	1
+6	21	major	major	JJ	amod	22	O	 (JJ major)	16	1
+6	22	part	part	NN	dobj	19	O	 (NN part))	16	1
+6	23	of	of	IN	case	25	O	 (PP (IN of)	16	1
+6	24	its	its	PRP$	nmod:poss	25	O	 (NP (PRP$ its)	16	1
+6	25	installations	installation	NNS	nmod	22	O	 (NNS installations)	16	1
+6	26	and	and	CC	cc	25	O	 (CC and)	16	1
+6	27	equipment	equipment	NN	conj	25	O	 (NN equipment)))))))	16	1
+6	28	.	.	.	punct	8	O	 (. .)))	16	1
+7	1	And	and	CC	cc	15	O	 (ROOT (S (CC And)	17	1
+7	2	only	only	RB	advmod	4	O	 (S (NP-TMP (RB only)	17	1
+7	3	last	last	JJ	amod	4	DATE	 (JJ last)	17	1
+7	4	week	week	NN	nmod:tmod	15	DATE	 (NN week))	17	1
+7	5	the	the	DT	det	8	O	 (NP (NP (DT the)	17	1
+7	6	newspaper	newspaper	NN	compound	8	O	 (NN newspaper)	17	1
+7	7	Vanguardia	Vanguardia	NNP	compound	8	ORGANIZATION	 (NNP Vanguardia)	17	1
+7	8	Liberal	Liberal	NNP	nsubjpass	15	ORGANIZATION	 (NNP Liberal))	17	1
+7	9	in	in	IN	case	11	O	 (PP (IN in)	17	1
+7	10	the	the	DT	det	11	O	 (NP (NP (DT the)	17	1
+7	11	city	city	NN	nmod	8	O	 (NN city))	17	1
+7	12	of	of	IN	case	13	O	 (PP (IN of)	17	1
+7	13	Bucaramanga	Bucaramanga	NNP	nmod	11	LOCATION	 (NP (NNP Bucaramanga))))))	17	1
+7	14	was	be	VBD	auxpass	15	O	 (VP (VBD was)	17	1
+7	15	bombed	bomb	VBN	root	0	O	 (VP (VBN bombed))))	17	1
+7	16	,	,	,	punct	15	O	 (, ,)	17	1
+7	17	and	and	CC	cc	15	O	 (CC and)	18	1
+7	18	its	its	PRP$	nmod:poss	19	O	 (S (NP (PRP$ its)	18	1
+7	19	installations	installation	NNS	nsubj	20	O	 (NNS installations))	18	1
+7	20	destroyed	destroy	VBN	conj	15	O	 (VP (VBN destroyed)))	18	1
+7	21	.	.	.	punct	15	O	 (. .)))	18	1
+8	1	Journalists	journalist	NNS	nsubjpass	7	O	 (ROOT (S (NP (NP (NNS Journalists))	19	1
+8	2	and	and	CC	cc	1	O	 (CC and)	19	1
+8	3	their	they	PRP$	nmod:poss	4	O	 (NP (PRP$ their)	19	1
+8	4	families	family	NNS	conj	1	O	 (NNS families)))	19	1
+8	5	are	be	VBP	auxpass	7	O	 (VP (VBP are)	19	1
+8	6	constantly	constantly	RB	advmod	7	O	 (ADVP (RB constantly))	19	1
+8	7	threatened	threaten	VBN	root	0	O	 (VP (VBN threatened)	19	1
+8	8	as	as	RB	advmod	13	O	 (SBAR (RB as)	20	1
+8	9	are	be	VBP	dep	13	O	 (SINV (VBP are)	20	1
+8	10	the	the	DT	det	13	O	 (NP (DT the)	20	1
+8	11	newspaper	newspaper	NN	compound	13	O	 (NN newspaper)	20	1
+8	12	distribution	distribution	NN	compound	13	O	 (NN distribution)	20	1
+8	13	outlets	outlet	NNS	dep	7	O	 (NNS outlets))))))	20	1
+8	14	.	.	.	punct	7	O	 (. .)))	20	1
+9	1	Distribution	distribution	NN	compound	2	O	 (ROOT (S (S (NP (NN Distribution)	21	1
+9	2	centers	center	NNS	nsubjpass	4	O	 (NNS centers))	21	1
+9	3	are	be	VBP	auxpass	4	O	 (VP (VBP are)	21	1
+9	4	bombed	bomb	VBN	root	0	O	 (VP (VBN bombed))))	21	1
+9	5	,	,	,	punct	4	O	 (, ,)	21	1
+9	6	and	and	CC	cc	4	O	 (CC and)	22	1
+9	7	advertisers	advertiser	NNS	nsubjpass	9	O	 (S (NP (NNS advertisers))	22	1
+9	8	are	be	VBP	auxpass	9	O	 (VP (VBP are)	22	1
+9	9	intimidated	intimidate	VBN	conj	4	O	 (VP (VBN intimidated))))	22	1
+9	10	.	.	.	punct	4	O	 (. .)))	22	1
+10	1	Censorship	censorship	NN	nsubjpass	3	O	 (ROOT (S (NP (NN Censorship))	23	1
+10	2	is	be	VBZ	auxpass	3	O	 (VP (VBZ is)	23	1
+10	3	imposed	impose	VBN	root	0	O	 (VP (VBN imposed)	23	1
+10	4	by	by	IN	case	5	O	 (PP (IN by)	23	1
+10	5	terrorism	terrorism	NN	nmod	3	O	 (NP (NN terrorism)))))	23	1
+10	6	.	.	.	punct	3	O	 (. .)))	23	1
+11	1	If	if	IN	mark	5	O	 (ROOT (S (SBAR (IN If)	24	1
+11	2	the	the	DT	det	4	O	 (S (NP (DT the)	24	1
+11	3	Colombian	colombian	JJ	amod	4	MISC	 (JJ Colombian)	24	1
+11	4	media	media	NNS	nsubj	5	O	 (NNS media))	24	1
+11	5	accept	accept	VBP	advcl	12	O	 (VP (VBP accept)	24	1
+11	6	this	this	DT	det	10	O	 (NP (DT this)	24	1
+11	7	new	new	JJ	amod	10	O	 (ADJP (JJ new)	24	1
+11	8	and	and	CC	cc	7	O	 (CC and)	24	1
+11	9	hideous	hideous	JJ	conj	7	O	 (JJ hideous))	24	1
+11	10	censorship	censorship	NN	dobj	5	O	 (NN censorship)))))	24	1
+11	11	there	there	EX	expl	12	O	 (NP (EX there))	25	1
+11	12	is	be	VBZ	root	0	O	 (VP (VBZ is)	25	1
+11	13	little	little	JJ	advmod	12	O	 (ADVP (JJ little)	25	1
+11	14	doubt	doubt	NN	dep	13	O	 (NN doubt))	25	1
+11	15	that	that	IN	mark	23	O	 (SBAR (IN that)	26	1
+11	16	the	the	DT	det	18	O	 (S (NP (NP (DT the)	26	1
+11	17	drug	drug	NN	compound	18	O	 (NN drug)	26	1
+11	18	mafia	mafia	NN	nmod:poss	20	O	 (NN mafia)	26	1
+11	19	's	's	POS	case	18	O	 (POS 's))	26	1
+11	20	terrorism	terrorism	NN	nsubj	23	O	 (NN terrorism))	26	1
+11	21	someday	someday	RB	advmod	23	O	 (ADVP (RB someday))	26	1
+11	22	will	will	MD	aux	23	O	 (VP (MD will)	26	1
+11	23	extend	extend	VB	ccomp	12	O	 (VP (VB extend)	26	1
+11	24	to	to	TO	case	27	O	 (PP (TO to)	26	1
+11	25	all	all	PDT	det:predet	27	O	 (NP (NP (PDT all)	26	1
+11	26	the	the	DT	det	27	O	 (DT the)	26	1
+11	27	newspapers	newspaper	NNS	nmod	23	O	 (NNS newspapers))	26	1
+11	28	published	publish	VBN	acl	27	O	 (VP (VBN published)	27	1
+11	29	in	in	IN	case	32	O	 (PP (IN in)	27	1
+11	30	the	the	DT	det	32	O	 (NP (DT the)	27	1
+11	31	free	free	JJ	amod	32	O	 (JJ free)	27	1
+11	32	world	world	NN	nmod	28	O	 (NN world)))))))))))	27	1
+11	33	.	.	.	punct	12	O	 (. .)))	27	1
+12	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	28	1
+12	2	solidarity	solidarity	NN	nsubj	16	O	 (NN solidarity))	28	1
+12	3	of	of	IN	case	6	O	 (PP (IN of)	28	1
+12	4	the	the	DT	det	6	O	 (NP (DT the)	28	1
+12	5	uncensored	uncensored	JJ	amod	6	O	 (JJ uncensored)	28	1
+12	6	media	media	NNS	nmod	2	O	 (NNS media))))	28	1
+12	7	world-wide	world-wide	JJ	advmod	16	O	 (ADVP (JJ world-wide)	28	1
+12	8	against	against	IN	case	10	O	 (PP (IN against)	28	1
+12	9	drug	drug	NN	compound	10	O	 (NP (NN drug)	28	1
+12	10	terrorism	terrorism	NN	nmod	7	O	 (NN terrorism))))	28	1
+12	11	is	be	VBZ	cop	16	O	 (VP (VBZ is)	28	1
+12	12	the	the	DT	det	16	O	 (NP (NP (DT the)	28	1
+12	13	only	only	JJ	amod	16	O	 (JJ only)	28	1
+12	14	way	way	NN	compound	16	O	 (NN way)	28	1
+12	15	press	press	NN	compound	16	O	 (NN press)	29	1
+12	16	freedom	freedom	NN	root	0	O	 (NN freedom))	29	1
+12	17	can	can	MD	aux	18	O	 (SBAR (S (VP (MD can)	29	1
+12	18	survive	survive	VB	acl:relcl	16	O	 (VP (VB survive)))))))	29	1
+12	19	.	.	.	punct	16	O	 (. .)))	29	1
+13	1	The	the	DT	det	3	O	 (ROOT (S (NP (NP (DT The)	30	1
+13	2	American	american	JJ	amod	3	MISC	 (JJ American)	30	1
+13	3	people	people	NNS	nsubj	8	O	 (NNS people))	30	1
+13	4	and	and	CC	cc	3	O	 (CC and)	30	1
+13	5	their	they	PRP$	nmod:poss	6	O	 (NP (PRP$ their)	30	1
+13	6	government	government	NN	conj	3	O	 (NN government)))	30	1
+13	7	also	also	RB	advmod	8	O	 (ADVP (RB also))	30	1
+13	8	woke	wake	VBD	root	0	O	 (VP (VBD woke)	30	1
+13	9	up	up	RP	compound:prt	8	O	 (PRT (RP up))	30	1
+13	10	too	too	RB	advmod	11	O	 (SBAR (S (NP (ADJP (RB too)	30	1
+13	11	late	late	JJ	amod	15	O	 (JJ late)	30	1
+13	12	to	to	TO	case	14	O	 (PP (TO to)	30	1
+13	13	the	the	DT	det	14	O	 (NP (DT the)	30	1
+13	14	menace	menace	NN	nmod	11	O	 (NN menace))))	30	1
+13	15	drugs	drug	NNS	nsubj	16	O	 (NNS drugs))	31	1
+13	16	posed	pose	VBD	ccomp	8	O	 (VP (VBD posed)	31	1
+13	17	to	to	TO	case	20	O	 (PP (TO to)	31	1
+13	18	the	the	DT	det	20	O	 (NP (NP (DT the)	31	1
+13	19	moral	moral	JJ	amod	20	O	 (JJ moral)	31	1
+13	20	structure	structure	NN	nmod	16	O	 (NN structure))	31	1
+13	21	of	of	IN	case	23	O	 (PP (IN of)	31	1
+13	22	their	they	PRP$	nmod:poss	23	O	 (NP (PRP$ their)	31	1
+13	23	country	country	NN	nmod	20	O	 (NN country)))))))))	31	1
+13	24	.	.	.	punct	8	O	 (. .)))	31	1
+14	1	Even	even	RB	advmod	2	O	 (ROOT (S (ADVP (RB Even)	32	1
+14	2	now	now	RB	advmod	12	DATE	 (RB now))	32	1
+14	3	,	,	,	punct	12	O	 (, ,)	32	1
+14	4	the	the	DT	det	6	O	 (NP (NP (DT the)	32	1
+14	5	American	american	JJ	amod	6	MISC	 (JJ American)	32	1
+14	6	attack	attack	NN	nsubj	12	O	 (NN attack))	32	1
+14	7	upon	upon	IN	case	10	O	 (PP (IN upon)	32	1
+14	8	this	this	DT	det	10	O	 (NP (DT this)	32	1
+14	9	tremendous	tremendous	JJ	amod	10	O	 (JJ tremendous)	32	1
+14	10	problem	problem	NN	nmod	6	O	 (NN problem))))	32	1
+14	11	is	be	VBZ	cop	12	O	 (VP (VBZ is)	32	1
+14	12	timid	timid	JJ	root	0	O	 (ADJP (JJ timid)	32	1
+14	13	in	in	IN	case	14	O	 (PP (IN in)	32	1
+14	14	relation	relation	NN	nmod	12	O	 (NP (NN relation))))	32	1
+14	15	to	to	TO	case	17	O	 (PP (TO to)	32	1
+14	16	the	the	DT	det	17	O	 (NP (NP (DT the)	32	1
+14	17	magnitude	magnitude	NN	nmod	12	O	 (NN magnitude))	32	1
+14	18	of	of	IN	case	20	O	 (PP (IN of)	32	1
+14	19	the	the	DT	det	20	O	 (NP (DT the)	32	1
+14	20	threat	threat	NN	nmod	17	O	 (NN threat))))))	32	1
+14	21	.	.	.	punct	12	O	 (. .)))	32	1
+15	1	I	I	PRP	nsubj	3	O	 (ROOT (S (NP (PRP I))	33	1
+15	2	can	can	MD	aux	3	O	 (VP (MD can)	33	1
+15	3	attest	attest	VB	root	0	O	 (VP (VB attest)	33	1
+15	4	that	that	IN	mark	13	O	 (SBAR (IN that)	34	1
+15	5	a	a	DT	det	8	O	 (S (NP (NP (DT a)	34	1
+15	6	recent	recent	JJ	amod	8	O	 (JJ recent)	34	1
+15	7	Colombian	colombian	JJ	amod	8	MISC	 (JJ Colombian)	34	1
+15	8	visitor	visitor	NN	nsubjpass	13	O	 (NN visitor))	34	1
+15	9	to	to	TO	case	11	O	 (PP (TO to)	34	1
+15	10	the	the	DT	det	11	O	 (NP (DT the)	34	1
+15	11	U.S.	U.S.	NNP	nmod	8	LOCATION	 (NNP U.S.))))	34	1
+15	12	was	be	VBD	auxpass	13	O	 (VP (VBD was)	34	1
+15	13	offered	offer	VBN	ccomp	3	O	 (VP (VBN offered)	34	1
+15	14	drugs	drug	NNS	dobj	13	O	 (NP (NP (NNS drugs))	34	1
+15	15	three	three	CD	nummod	16	NUMBER	 (PP (NP (CD three)	34	1
+15	16	times	time	NNS	nmod	14	O	 (NNS times))	34	1
+15	17	in	in	IN	case	16	O	 (IN in)	34	1
+15	18	the	the	DT	det	20	O	 (NP (NP (NP (DT the)	34	1
+15	19	few	few	JJ	amod	20	O	 (JJ few)	34	1
+15	20	blocks	block	NNS	nmod:poss	22	O	 (NNS blocks)	34	1
+15	21	'	'	POS	case	20	O	 (POS '))	34	1
+15	22	walk	walk	NN	dep	16	O	 (NN walk))	34	1
+15	23	between	between	IN	case	26	O	 (PP (IN between)	34	1
+15	24	Grand	Grand	NNP	compound	26	MISC	 (NP (NP (NNP Grand)	34	1
+15	25	Central	Central	NNP	compound	26	MISC	 (NNP Central)	34	1
+15	26	Terminal	Terminal	NNP	nmod	22	MISC	 (NNP Terminal))	34	1
+15	27	and	and	CC	cc	26	O	 (CC and)	34	1
+15	28	the	the	DT	det	31	O	 (NP (DT the)	34	1
+15	29	Waldorf	Waldorf	NNP	compound	31	LOCATION	 (NNP Waldorf)	34	1
+15	30	Astoria	Astoria	NNP	compound	31	LOCATION	 (NNP Astoria)	34	1
+15	31	Hotel	Hotel	NNP	conj	26	LOCATION	 (NNP Hotel)))))))	34	1
+15	32	in	in	IN	case	34	O	 (PP (IN in)	34	1
+15	33	midtown	midtown	JJ	amod	34	O	 (NP (JJ midtown)	34	1
+15	34	Manhattan	Manhattan	NNP	nmod	13	LOCATION	 (NNP Manhattan)))))))))	34	1
+15	35	.	.	.	punct	3	O	 (. .)))	34	1
+16	1	Colombia	Colombia	NNP	nsubj	15	LOCATION	 (ROOT (S (NP (NP (NNP Colombia)	35	1
+16	2	alone	alone	RB	advmod	1	O	 (RB alone))	35	1
+16	3	--	--	:	punct	5	O	 (PRN (: --)	36	1
+16	4	its	its	PRP$	nmod:poss	5	O	 (NP (NP (PRP$ its)	36	1
+16	5	government	government	NN	dep	1	O	 (NN government))	36	1
+16	6	,	,	,	punct	5	O	 (, ,)	36	1
+16	7	its	its	PRP$	nmod:poss	8	O	 (NP (PRP$ its)	36	1
+16	8	people	people	NNS	appos	5	O	 (NNS people))	36	1
+16	9	,	,	,	punct	5	O	 (, ,)	36	1
+16	10	its	its	PRP$	nmod:poss	11	O	 (NP (PRP$ its)	36	1
+16	11	newspapers	newspaper	NNS	appos	5	O	 (NNS newspapers)))	36	1
+16	12	--	--	:	punct	5	O	 (: --)))	36	1
+16	13	does	do	VBZ	aux	15	O	 (VP (VBZ does)	37	1
+16	14	not	not	RB	neg	15	O	 (RB not)	37	1
+16	15	have	have	VB	root	0	O	 (VP (VB have)	37	1
+16	16	the	the	DT	det	17	O	 (NP (DT the)	37	1
+16	17	capacity	capacity	NN	dobj	15	O	 (NN capacity)	37	1
+16	18	to	to	TO	mark	19	O	 (S (VP (TO to)	38	1
+16	19	fight	fight	VB	acl	17	O	 (VP (VB fight)	38	1
+16	20	this	this	DT	det	21	O	 (NP (DT this)	38	1
+16	21	battle	battle	NN	dobj	19	O	 (NN battle))	38	1
+16	22	successfully	successfully	RB	advmod	19	O	 (ADVP (RB successfully))))))))	38	1
+16	23	.	.	.	punct	15	O	 (. .)))	38	1
+17	1	All	all	DT	det	3	O	 (ROOT (S (NP (DT All)	39	1
+17	2	drug-consuming	drug-consuming	JJ	amod	3	O	 (JJ drug-consuming)	39	1
+17	3	countries	country	NNS	nsubj	6	O	 (NNS countries))	39	1
+17	4	must	must	MD	aux	6	O	 (VP (MD must)	39	1
+17	5	jointly	jointly	RB	advmod	6	O	 (ADVP (RB jointly))	39	1
+17	6	decide	decide	VB	root	0	O	 (VP (VB decide)	39	1
+17	7	to	to	TO	mark	8	O	 (S (VP (TO to)	39	1
+17	8	combat	combat	VB	xcomp	6	O	 (VP (VB combat)	39	1
+17	9	and	and	CC	cc	8	O	 (CC and)	39	1
+17	10	punish	punish	VB	conj	8	O	 (VB punish)	39	1
+17	11	the	the	DT	det	12	O	 (NP (NP (DT the)	39	1
+17	12	consumers	consumer	NNS	dobj	8	O	 (NNS consumers)	39	1
+17	13	and	and	CC	cc	12	O	 (CC and)	39	1
+17	14	distributors	distributor	NNS	conj	12	O	 (NNS distributors))	39	1
+17	15	of	of	IN	case	16	O	 (PP (IN of)	39	1
+17	16	drugs	drug	NNS	nmod	12	O	 (NP (NNS drugs)))))))))	39	1
+17	17	.	.	.	punct	6	O	 (. .)))	39	1
+18	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	40	1
+18	2	U.S.	U.S.	NNP	nsubj	11	LOCATION	 (NNP U.S.))	40	1
+18	3	,	,	,	punct	11	O	 (, ,)	40	1
+18	4	as	as	IN	case	8	O	 (PP (IN as)	40	1
+18	5	the	the	DT	det	8	O	 (NP (DT the)	40	1
+18	6	major	major	JJ	amod	8	O	 (JJ major)	40	1
+18	7	drug	drug	NN	compound	8	O	 (NN drug)	40	1
+18	8	consumer	consumer	NN	nmod	11	O	 (NN consumer)))	40	1
+18	9	,	,	,	punct	11	O	 (, ,)	40	1
+18	10	should	should	MD	aux	11	O	 (VP (MD should)	40	1
+18	11	lead	lead	VB	root	0	O	 (VP (VB lead)	40	1
+18	12	this	this	DT	det	14	O	 (NP (DT this)	40	1
+18	13	joint	joint	JJ	amod	14	O	 (JJ joint)	40	1
+18	14	effort	effort	NN	dobj	11	O	 (NN effort))))	40	1
+18	15	.	.	.	punct	11	O	 (. .)))	40	1
+19	1	Reduction	reduction	NN	nsubj	14	O	 (ROOT (S (NP (NP (NP (NN Reduction))	41	1
+19	2	,	,	,	punct	1	O	 (, ,)	41	1
+19	3	if	if	IN	dep	4	O	 (CONJP (IN if)	41	1
+19	4	not	not	RB	cc	1	O	 (RB not))	41	1
+19	5	the	the	DT	det	7	O	 (NP (DT the)	41	1
+19	6	total	total	JJ	amod	7	O	 (JJ total)	41	1
+19	7	cessation	cessation	NN	conj	1	O	 (NN cessation))	41	1
+19	8	,	,	,	punct	1	O	 (, ,))	41	1
+19	9	of	of	IN	case	11	O	 (PP (IN of)	41	1
+19	10	drug	drug	NN	compound	11	O	 (NP (NN drug)	41	1
+19	11	consumption	consumption	NN	nmod	1	O	 (NN consumption))))	41	1
+19	12	is	be	VBZ	cop	14	O	 (VP (VBZ is)	41	1
+19	13	the	the	DT	det	14	O	 (NP (NP (DT the)	41	1
+19	14	requirement	requirement	NN	root	0	O	 (NN requirement))	41	1
+19	15	for	for	IN	case	16	O	 (PP (IN for)	41	1
+19	16	victory	victory	NN	nmod	14	O	 (NP (NN victory)))))	41	1
+19	17	.	.	.	punct	14	O	 (. .)))	41	1
+20	1	Much	much	JJ	nsubjpass	4	O	 (ROOT (S (NP (JJ Much))	42	1
+20	2	is	be	VBZ	aux	4	O	 (VP (VBZ is)	42	1
+20	3	being	be	VBG	auxpass	4	O	 (VP (VBG being)	42	1
+20	4	done	do	VBN	root	0	O	 (VP (VBN done)	42	1
+20	5	in	in	IN	case	6	O	 (PP (IN in)	42	1
+20	6	Colombia	Colombia	NNP	nmod	4	LOCATION	 (NP (NNP Colombia)))	42	1
+20	7	to	to	TO	mark	8	O	 (S (VP (TO to)	43	1
+20	8	fight	fight	VB	xcomp	4	O	 (VP (VB fight)	43	1
+20	9	the	the	DT	det	12	O	 (NP (DT the)	43	1
+20	10	drug	drug	NN	compound	12	O	 (NN drug)	43	1
+20	11	cartel	cartel	NN	compound	12	O	 (NN cartel)	43	1
+20	12	mafia	mafia	NN	dobj	8	O	 (NN mafia))))))))	43	1
+20	13	.	.	.	punct	4	O	 (. .)))	43	1
+21	1	Luxurious	luxurious	JJ	amod	2	O	 (ROOT (S (S (NP (JJ Luxurious)	44	1
+21	2	homes	home	NNS	nsubjpass	7	O	 (NNS homes)	44	1
+21	3	and	and	CC	cc	2	O	 (CC and)	44	1
+21	4	ranches	ranch	NNS	conj	2	O	 (NNS ranches))	44	1
+21	5	have	have	VBP	aux	7	O	 (VP (VBP have)	44	1
+21	6	been	be	VBN	auxpass	7	O	 (VP (VBN been)	44	1
+21	7	raided	raid	VBN	root	0	O	 (VP (VBN raided)	44	1
+21	8	by	by	IN	case	11	O	 (PP (IN by)	44	1
+21	9	the	the	DT	det	11	O	 (NP (DT the)	44	1
+21	10	military	military	JJ	amod	11	O	 (JJ military)	44	1
+21	11	authorities	authority	NNS	nmod	7	O	 (NNS authorities)))))))	44	1
+21	12	,	,	,	punct	7	O	 (, ,)	44	1
+21	13	and	and	CC	cc	7	O	 (CC and)	45	1
+21	14	sophisticated	sophisticated	JJ	amod	18	O	 (S (NP (ADJP (JJ sophisticated)	45	1
+21	15	and	and	CC	cc	14	O	 (CC and)	45	1
+21	16	powerful	powerful	JJ	conj	14	O	 (JJ powerful))	45	1
+21	17	communications	communication	NNS	compound	18	O	 (NNS communications)	45	1
+21	18	equipment	equipment	NN	nsubjpass	21	O	 (NN equipment))	45	1
+21	19	have	have	VBP	aux	21	O	 (VP (VBP have)	45	1
+21	20	been	be	VBN	auxpass	21	O	 (VP (VBN been)	45	1
+21	21	seized	seize	VBN	conj	7	O	 (VP (VBN seized)))))	45	1
+21	22	.	.	.	punct	7	O	 (. .)))	45	1
+22	1	More	more	JJR	advmod	3	O	 (ROOT (S (S (NP (QP (JJR More)	46	1
+22	2	than	than	IN	mwe	1	O	 (IN than)	46	1
+22	3	300	300	CD	nummod	4	NUMBER	 (CD 300))	46	1
+22	4	planes	plane	NNS	nsubjpass	9	O	 (NNS planes)	46	1
+22	5	and	and	CC	cc	4	O	 (CC and)	46	1
+22	6	helicopters	helicopter	NNS	conj	4	O	 (NNS helicopters))	46	1
+22	7	have	have	VBP	aux	9	O	 (VP (VBP have)	46	1
+22	8	been	be	VBN	auxpass	9	O	 (VP (VBN been)	46	1
+22	9	impounded	impound	VBN	root	0	O	 (VP (VBN impounded)	46	1
+22	10	at	at	IN	case	11	O	 (PP (IN at)	46	1
+22	11	airports	airport	NNS	nmod	9	O	 (NP (NNS airports)))))))	46	1
+22	12	,	,	,	punct	9	O	 (, ,)	46	1
+22	13	and	and	CC	cc	9	O	 (CC and)	47	1
+22	14	a	a	DT	det	16	O	 (S (NP (NP (DT a)	47	1
+22	15	large	large	JJ	amod	16	O	 (JJ large)	47	1
+22	16	number	number	NN	nsubjpass	23	O	 (NN number))	47	1
+22	17	of	of	IN	case	18	O	 (PP (IN of)	47	1
+22	18	vehicles	vehicle	NNS	nmod	16	O	 (NP (NNS vehicles)	47	1
+22	19	and	and	CC	cc	18	O	 (CC and)	47	1
+22	20	launches	launch	NNS	conj	18	O	 (NNS launches))))	47	1
+22	21	has	have	VBZ	aux	23	O	 (VP (VBZ has)	47	1
+22	22	been	be	VBN	auxpass	23	O	 (VP (VBN been)	47	1
+22	23	confiscated	confiscate	VBN	conj	9	O	 (VP (VBN confiscated)))))	47	1
+22	24	.	.	.	punct	9	O	 (. .)))	47	1
+23	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	48	1
+23	2	military	military	NN	nsubj	5	O	 (NN military))	48	1
+23	3	has	have	VBZ	aux	5	O	 (VP (VBZ has)	48	1
+23	4	also	also	RB	advmod	5	O	 (ADVP (RB also))	48	1
+23	5	captured	capture	VBN	root	0	O	 (VP (VBN captured)	48	1
+23	6	enormous	enormous	JJ	amod	7	O	 (NP (NP (JJ enormous)	48	1
+23	7	arsenals	arsenal	NNS	dobj	5	O	 (NNS arsenals))	48	1
+23	8	of	of	IN	case	12	O	 (PP (IN of)	48	1
+23	9	powerful	powerful	JJ	amod	12	O	 (NP (NP (JJ powerful)	48	1
+23	10	and	and	CC	cc	9	O	 (CC and)	48	1
+23	11	sophisticated	sophisticated	JJ	conj	9	O	 (JJ sophisticated)	48	1
+23	12	weapons	weapon	NNS	nmod	7	O	 (NNS weapons))	48	1
+23	13	,	,	,	punct	12	O	 (, ,)	48	1
+23	14	explosives	explosive	NNS	conj	12	O	 (NP (NNS explosives))	48	1
+23	15	and	and	CC	cc	12	O	 (CC and)	48	1
+23	16	other	other	JJ	amod	18	O	 (NP (JJ other)	48	1
+23	17	war-like	war-like	JJ	amod	18	O	 (JJ war-like)	48	1
+23	18	materiel	materiel	NN	conj	12	O	 (NN materiel)))))))	48	1
+23	19	.	.	.	punct	5	O	 (. .)))	48	1
+24	1	Much	much	RB	nsubjpass	4	O	 (ROOT (S (S (S (NP (RB Much))	49	1
+24	2	has	have	VBZ	aux	4	O	 (VP (VBZ has)	49	1
+24	3	been	be	VBN	auxpass	4	O	 (VP (VBN been)	49	1
+24	4	accomplished	accomplish	VBN	root	0	O	 (VP (VBN accomplished)))))	49	1
+24	5	and	and	CC	cc	4	O	 (CC and)	50	1
+24	6	public	public	JJ	amod	7	O	 (S (NP (JJ public)	50	1
+24	7	opinion	opinion	NN	nsubj	9	O	 (NN opinion))	50	1
+24	8	decisively	decisively	RB	advmod	9	O	 (ADVP (RB decisively))	50	1
+24	9	supports	support	VBZ	conj	4	O	 (VP (VBZ supports)	50	1
+24	10	the	the	DT	det	11	O	 (NP (NP (DT the)	50	1
+24	11	government	government	NN	dobj	9	O	 (NN government))	50	1
+24	12	and	and	CC	cc	11	O	 (CC and)	50	1
+24	13	the	the	DT	det	14	O	 (NP (DT the)	50	1
+24	14	army	army	NN	conj	11	O	 (NN army))))))	50	1
+24	15	--	--	:	punct	4	O	 (: --)	51	1
+24	16	but	but	CC	cc	4	O	 (CC but)	51	1
+24	17	,	,	,	punct	4	O	 (, ,)	51	1
+24	18	on	on	IN	case	21	O	 (S (PP (IN on)	51	1
+24	19	the	the	DT	det	21	O	 (NP (DT the)	51	1
+24	20	other	other	JJ	amod	21	O	 (JJ other)	51	1
+24	21	hand	hand	NN	nmod	31	O	 (NN hand)))	51	1
+24	22	,	,	,	punct	31	O	 (, ,)	51	1
+24	23	none	none	NN	nsubjpass	31	O	 (NP (NP (NN none))	51	1
+24	24	of	of	IN	case	28	O	 (PP (IN of)	51	1
+24	25	the	the	DT	det	28	O	 (NP (DT the)	51	1
+24	26	key	key	JJ	amod	28	O	 (JJ key)	51	1
+24	27	drug	drug	NN	compound	28	O	 (NN drug)	51	1
+24	28	barons	baron	NNS	nmod	23	O	 (NNS barons))))	51	1
+24	29	have	have	VBP	aux	31	O	 (VP (VBP have)	51	1
+24	30	been	be	VBN	auxpass	31	O	 (VP (VBN been)	51	1
+24	31	captured	capture	VBN	conj	4	O	 (VP (VBN captured)))))	51	1
+24	32	.	.	.	punct	4	O	 (. .)))	51	1
+25	1	There	there	EX	expl	5	O	 (ROOT (S (NP (EX There))	52	1
+25	2	has	have	VBZ	aux	5	O	 (VP (VBZ has)	52	1
+25	3	been	be	VBN	cop	5	O	 (VP (VBN been)	52	1
+25	4	a	a	DT	det	5	O	 (NP (NP (DT a)	52	1
+25	5	lot	lot	NN	root	0	O	 (NN lot))	52	1
+25	6	of	of	IN	case	7	O	 (PP (IN of)	52	1
+25	7	talk	talk	NN	nmod	5	O	 (NP (NN talk))))	52	1
+25	8	that	that	IN	mark	17	O	 (SBAR (IN that)	53	1
+25	9	a	a	DT	det	11	O	 (S (NP (NP (DT a)	53	1
+25	10	large	large	JJ	amod	11	O	 (JJ large)	53	1
+25	11	portion	portion	NN	nsubjpass	17	O	 (NN portion))	53	1
+25	12	of	of	IN	case	15	O	 (PP (IN of)	53	1
+25	13	the	the	DT	det	15	O	 (NP (DT the)	53	1
+25	14	Colombian	colombian	JJ	amod	15	MISC	 (JJ Colombian)	53	1
+25	15	economy	economy	NN	nmod	11	O	 (NN economy))))	53	1
+25	16	is	be	VBZ	auxpass	17	O	 (VP (VBZ is)	53	1
+25	17	sustained	sustain	VBN	ccomp	5	O	 (VP (VBN sustained)	53	1
+25	18	by	by	IN	case	20	O	 (PP (IN by)	53	1
+25	19	the	the	DT	det	20	O	 (NP (NP (DT the)	53	1
+25	20	laundering	laundering	NN	nmod	17	O	 (NN laundering))	53	1
+25	21	of	of	IN	case	23	O	 (PP (IN of)	53	1
+25	22	drug	drug	NN	compound	23	O	 (NP (NN drug)	53	1
+25	23	money	money	NN	nmod	20	O	 (NN money)))))))))))	53	1
+25	24	.	.	.	punct	5	O	 (. .)))	53	1
+26	1	In	in	IN	case	3	O	 (ROOT (S (PP (IN In)	54	1
+26	2	my	my	PRP$	nmod:poss	3	O	 (NP (PRP$ my)	54	1
+26	3	opinion	opinion	NN	nmod	8	O	 (NN opinion)))	54	1
+26	4	,	,	,	punct	8	O	 (, ,)	54	1
+26	5	this	this	DT	nsubj	8	O	 (NP (DT this))	54	1
+26	6	is	be	VBZ	cop	8	O	 (VP (VBZ is)	54	1
+26	7	not	not	RB	neg	8	O	 (RB not)	54	1
+26	8	true	true	JJ	root	0	O	 (ADJP (JJ true)))	54	1
+26	9	.	.	.	punct	8	O	 (. .)))	54	1
+27	1	Laundered	launder	VBN	amod	3	O	 (ROOT (S (NP (VBN Laundered)	55	1
+27	2	drug	drug	NN	compound	3	O	 (NN drug)	55	1
+27	3	money	money	NN	nsubj	5	O	 (NN money))	55	1
+27	4	has	have	VBZ	aux	5	O	 (VP (VBZ has)	55	1
+27	5	served	serve	VBN	root	0	O	 (VP (VBN served)	55	1
+27	6	only	only	RB	advmod	5	O	 (ADVP (RB only))	55	1
+27	7	to	to	TO	mark	8	O	 (S (VP (TO to)	55	1
+27	8	increase	increase	VB	xcomp	5	O	 (VP (VB increase)	55	1
+27	9	,	,	,	punct	8	O	 (, ,)	55	1
+27	10	unrealistically	unrealistically	RB	advmod	8	O	 (ADVP (RB unrealistically))	55	1
+27	11	,	,	,	punct	8	O	 (, ,)	55	1
+27	12	the	the	DT	det	13	O	 (NP (NP (DT the)	55	1
+27	13	price	price	NN	dobj	8	O	 (NN price))	55	1
+27	14	of	of	IN	case	16	O	 (PP (IN of)	55	1
+27	15	real	real	JJ	amod	16	O	 (NP (JJ real)	55	1
+27	16	estate	estate	NN	nmod	13	O	 (NN estate))))	55	1
+27	17	,	,	,	punct	8	O	 (, ,)	55	1
+27	18	creating	create	VBG	advcl	8	O	 (S (VP (VBG creating)	56	1
+27	19	serious	serious	JJ	amod	20	O	 (NP (NP (JJ serious)	56	1
+27	20	problems	problem	NNS	dobj	18	O	 (NNS problems))	56	1
+27	21	for	for	IN	case	23	O	 (PP (IN for)	56	1
+27	22	low-income	low-income	JJ	amod	23	O	 (NP (JJ low-income)	56	1
+27	23	people	people	NNS	nmod	20	O	 (NNS people)))	56	1
+27	24	who	who	WP	nsubj	25	O	 (SBAR (WHNP (WP who))	57	1
+27	25	aspire	aspire	VBP	acl:relcl	20	O	 (S (VP (VBP aspire)	57	1
+27	26	to	to	TO	mark	27	O	 (S (VP (TO to)	57	1
+27	27	own	own	VB	xcomp	25	O	 (VP (VB own)	57	1
+27	28	their	they	PRP$	nmod:poss	30	O	 (NP (PRP$ their)	57	1
+27	29	own	own	JJ	amod	30	O	 (JJ own)	57	1
+27	30	homes	home	NNS	dobj	27	O	 (NNS homes))))))))))))))))	57	1
+27	31	.	.	.	punct	5	O	 (. .)))	57	1
+28	1	Drug	drug	NN	compound	2	O	 (ROOT (S (NP (NN Drug)	58	1
+28	2	money	money	NN	nsubj	5	O	 (NN money))	58	1
+28	3	has	have	VBZ	aux	5	O	 (VP (VBZ has)	58	1
+28	4	also	also	RB	advmod	5	O	 (ADVP (RB also))	58	1
+28	5	gone	go	VBN	root	0	O	 (VP (VBN gone)	58	1
+28	6	to	to	TO	mark	7	O	 (S (VP (TO to)	59	1
+28	7	buy	buy	VB	xcomp	5	O	 (VP (VB buy)	59	1
+28	8	expensive	expensive	JJ	amod	9	O	 (NP (JJ expensive)	59	1
+28	9	cars	car	NNS	dobj	7	O	 (NNS cars)	59	1
+28	10	,	,	,	punct	9	O	 (, ,)	59	1
+28	11	airplanes	airplane	NNS	conj	9	O	 (NNS airplanes)	59	1
+28	12	,	,	,	punct	9	O	 (, ,)	59	1
+28	13	launches	launch	NNS	conj	9	O	 (NNS launches)	59	1
+28	14	and	and	CC	cc	9	O	 (CC and)	59	1
+28	15	nightclubs	nightclub	NNS	conj	9	O	 (NNS nightclubs))	59	1
+28	16	where	where	WRB	advmod	19	O	 (SBAR (WHADVP (WRB where))	60	1
+28	17	drugs	drug	NNS	nsubjpass	19	O	 (S (NP (NNS drugs))	60	1
+28	18	are	be	VBP	auxpass	19	O	 (VP (VBP are)	60	1
+28	19	consumed	consume	VBN	advcl	7	O	 (VP (VBN consumed))))))))))	60	1
+28	20	.	.	.	punct	5	O	 (. .)))	60	1
+29	1	But	but	CC	cc	8	O	 (ROOT (S (CC But)	61	1
+29	2	most	most	JJS	nsubjpass	8	O	 (NP (NP (JJS most))	61	1
+29	3	of	of	IN	case	6	O	 (PP (IN of)	61	1
+29	4	the	the	DT	det	6	O	 (NP (DT the)	61	1
+29	5	drug	drug	NN	compound	6	O	 (NN drug)	61	1
+29	6	money	money	NN	nmod	2	O	 (NN money))))	61	1
+29	7	is	be	VBZ	auxpass	8	O	 (VP (VBZ is)	61	1
+29	8	kept	keep	VBN	root	0	O	 (VP (VBN kept)	61	1
+29	9	in	in	IN	case	10	O	 (PP (PP (IN in)	61	1
+29	10	investments	investment	NNS	nmod	8	O	 (NP (NNS investments)))	61	1
+29	11	and	and	CC	cc	10	O	 (CC and)	61	1
+29	12	in	in	IN	case	14	O	 (PP (IN in)	61	1
+29	13	financial	financial	JJ	amod	14	O	 (NP (NP (JJ financial)	61	1
+29	14	institutions	institution	NNS	conj	10	O	 (NNS institutions))	61	1
+29	15	outside	outside	IN	case	16	O	 (PP (IN outside)	61	1
+29	16	Colombia	Colombia	NNP	nmod	14	LOCATION	 (NP (NNP Colombia))))))))	61	1
+29	17	.	.	.	punct	8	O	 (. .)))	61	1
+30	1	In	in	IN	case	2	O	 (ROOT (S (PP (IN In)	62	1
+30	2	fact	fact	NN	nmod	11	O	 (NP (NN fact)))	62	1
+30	3	,	,	,	punct	11	O	 (, ,)	62	1
+30	4	the	the	DT	det	5	O	 (NP (NP (DT the)	62	1
+30	5	cooperation	cooperation	NN	nsubj	11	O	 (NN cooperation))	62	1
+30	6	of	of	IN	case	9	O	 (PP (IN of)	62	1
+30	7	those	those	DT	det	9	O	 (NP (DT those)	62	1
+30	8	financial	financial	JJ	amod	9	O	 (JJ financial)	62	1
+30	9	institutions	institution	NNS	nmod	5	O	 (NNS institutions))))	62	1
+30	10	is	be	VBZ	cop	11	O	 (VP (VBZ is)	62	1
+30	11	essential	essential	JJ	root	0	O	 (ADJP (JJ essential)	62	1
+30	12	to	to	TO	case	14	O	 (PP (TO to)	62	1
+30	13	the	the	DT	det	14	O	 (NP (NP (DT the)	62	1
+30	14	success	success	NN	nmod	11	O	 (NN success))	62	1
+30	15	of	of	IN	case	18	O	 (PP (IN of)	62	1
+30	16	the	the	DT	det	18	O	 (NP (DT the)	62	1
+30	17	drug	drug	NN	compound	18	O	 (NN drug)	62	1
+30	18	battle	battle	NN	nmod	14	O	 (NN battle)))))))	62	1
+30	19	.	.	.	punct	11	O	 (. .)))	62	1
+31	1	What	what	WP	nsubj	6	O	 (ROOT (S (SBAR (WHNP (WP What))	63	1
+31	2	is	be	VBZ	cop	6	O	 (S (VP (VBZ is)	63	1
+31	3	of	of	IN	case	6	O	 (PP (IN of)	63	1
+31	4	much	much	RB	advmod	5	O	 (NP (ADJP (RB much)	63	1
+31	5	more	more	JJR	amod	6	O	 (JJR more))	63	1
+31	6	importance	importance	NN	csubj	21	O	 (NN importance)))	63	1
+31	7	to	to	TO	case	10	O	 (PP (TO to)	63	1
+31	8	the	the	DT	det	10	O	 (NP (NP (DT the)	63	1
+31	9	Colombian	colombian	JJ	amod	10	MISC	 (JJ Colombian)	63	1
+31	10	economy	economy	NN	nmod	6	O	 (NN economy))	63	1
+31	11	than	than	IN	case	14	O	 (PP (IN than)	63	1
+31	12	the	the	DT	det	14	O	 (NP (NP (DT the)	63	1
+31	13	supposed	suppose	VBN	amod	14	O	 (VBN supposed)	63	1
+31	14	benefits	benefit	NNS	nmod	10	O	 (NNS benefits))	63	1
+31	15	of	of	IN	case	18	O	 (PP (IN of)	63	1
+31	16	laundered	launder	VBN	amod	18	O	 (NP (VBN laundered)	63	1
+31	17	drug	drug	NN	compound	18	O	 (NN drug)	63	1
+31	18	money	money	NN	nmod	14	O	 (NN money))))))))))	63	1
+31	19	is	be	VBZ	cop	21	O	 (VP (VBZ is)	63	1
+31	20	higher	higher	JJR	amod	21	O	 (NP (NP (JJR higher)	63	1
+31	21	prices	price	NNS	root	0	O	 (NNS prices))	63	1
+31	22	for	for	IN	case	26	O	 (PP (IN for)	63	1
+31	23	Colombia	Colombia	NNP	nmod:poss	26	LOCATION	 (NP (NP (NNP Colombia)	63	1
+31	24	's	's	POS	case	23	O	 (POS 's))	63	1
+31	25	legitimate	legitimate	JJ	amod	26	O	 (JJ legitimate)	63	1
+31	26	products	product	NNS	nmod	21	O	 (NNS products)))))	63	1
+31	27	.	.	.	punct	21	O	 (. .)))	63	1
+32	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	64	1
+32	2	price	price	NN	nsubj	6	O	 (NN price))	64	1
+32	3	of	of	IN	case	4	O	 (PP (IN of)	64	1
+32	4	coffee	coffee	NN	nmod	2	O	 (NP (NN coffee))))	64	1
+32	5	has	have	VBZ	aux	6	O	 (VP (VBZ has)	64	1
+32	6	gone	go	VBN	root	0	O	 (VP (VBN gone)	64	1
+32	7	down	down	RP	compound:prt	6	O	 (PRT (RP down))	64	1
+32	8	almost	almost	RB	advmod	6	O	 (ADVP (RB almost)	64	1
+32	9	45	45	CD	nummod	10	PERCENT	 (NP (CD 45)	64	1
+32	10	%	%	NN	nmod:npmod	8	PERCENT	 (NN %)))	64	1
+32	11	since	since	IN	case	13	O	 (PP (IN since)	64	1
+32	12	the	the	DT	det	13	DATE	 (NP (NP (DT the)	64	1
+32	13	beginning	beginning	NN	nmod	6	DATE	 (NN beginning))	64	1
+32	14	of	of	IN	case	16	DATE	 (PP (IN of)	64	1
+32	15	the	the	DT	det	16	DATE	 (NP (DT the)	64	1
+32	16	year	year	NN	nmod	13	DATE	 (NN year)))))	64	1
+32	17	,	,	,	punct	6	O	 (, ,)	64	1
+32	18	to	to	TO	case	21	O	 (PP (TO to)	64	1
+32	19	the	the	DT	det	21	O	 (NP (NP (NP (DT the)	64	1
+32	20	lowest	lowest	JJS	amod	21	O	 (JJS lowest)	64	1
+32	21	level	level	NN	nmod	6	O	 (NN level))	64	1
+32	22	-LRB-	-lrb-	-LRB-	punct	24	O	 (PRN (-LRB- -LRB-)	65	1
+32	23	after	after	IN	case	24	O	 (PP (IN after)	65	1
+32	24	inflation	inflation	NN	nmod	21	O	 (NP (NN inflation)))	65	1
+32	25	-RRB-	-rrb-	-RRB-	punct	24	O	 (-RRB- -RRB-)))	65	1
+32	26	since	since	IN	case	29	O	 (PP (IN since)	66	1
+32	27	the	the	DT	det	29	O	 (NP (DT the)	66	1
+32	28	Great	Great	NNP	compound	29	O	 (NNP Great)	66	1
+32	29	Depression	Depression	NNP	nmod	21	O	 (NNP Depression)))))))	66	1
+32	30	.	.	.	punct	6	O	 (. .)))	66	1
+33	1	Market	market	NN	compound	2	O	 (ROOT (S (NP (NN Market)	67	1
+33	2	conditions	condition	NNS	nsubj	3	O	 (NNS conditions))	67	1
+33	3	point	point	VBP	root	0	O	 (VP (VBP point)	67	1
+33	4	to	to	TO	case	7	O	 (PP (TO to)	67	1
+33	5	even	even	RB	advmod	6	O	 (NP (ADJP (RB even)	67	1
+33	6	lower	lower	JJR	amod	7	O	 (JJR lower))	67	1
+33	7	prices	price	NNS	nmod	3	O	 (NNS prices)))	67	1
+33	8	next	next	IN	case	9	DATE	 (PP (IN next)	67	1
+33	9	year	year	NN	nmod	3	DATE	 (NP (NN year))))	67	1
+33	10	.	.	.	punct	3	O	 (. .)))	67	1
+34	1	The	the	DT	det	4	O	 (ROOT (S (NP (DT The)	68	1
+34	2	27-year-old	27-year-old	JJ	amod	4	DURATION	 (JJ 27-year-old)	68	1
+34	3	coffee	coffee	NN	compound	4	O	 (NN coffee)	68	1
+34	4	cartel	cartel	NN	nsubj	5	O	 (NN cartel))	68	1
+34	5	had	have	VBD	root	0	O	 (VP (VBD had)	68	1
+34	6	to	to	TO	mark	9	O	 (S (VP (TO to)	68	1
+34	7	be	be	VB	auxpass	9	O	 (VP (VB be)	68	1
+34	8	formally	formally	RB	advmod	9	O	 (VP (ADVP (RB formally))	68	1
+34	9	dissolved	dissolve	VBN	xcomp	5	O	 (VBN dissolved)	68	1
+34	10	this	this	DT	det	11	DATE	 (NP-TMP (DT this)	68	1
+34	11	summer	summer	NN	nmod:tmod	9	DATE	 (NN summer)))))))	68	1
+34	12	.	.	.	punct	5	O	 (. .)))	68	1
+35	1	As	as	IN	case	3	O	 (ROOT (S (PP (IN As)	69	1
+35	2	a	a	DT	det	3	O	 (NP (DT a)	69	1
+35	3	result	result	NN	nmod	7	O	 (NN result)))	69	1
+35	4	,	,	,	punct	7	O	 (, ,)	69	1
+35	5	Colombia	Colombia	NNP	nsubj	7	LOCATION	 (NP (NNP Colombia))	69	1
+35	6	will	will	MD	aux	7	O	 (VP (MD will)	69	1
+35	7	earn	earn	VB	root	0	O	 (VP (VB earn)	69	1
+35	8	$	$	$	nmod:npmod	11	MONEY	 (ADJP (NP (QP ($ $)	69	1
+35	9	500	500	CD	compound	10	MONEY	 (CD 500)	69	1
+35	10	million	million	CD	nummod	8	MONEY	 (CD million)))	69	1
+35	11	less	less	JJR	xcomp	7	O	 (JJR less)	69	1
+35	12	from	from	IN	case	14	O	 (PP (IN from)	69	1
+35	13	its	its	PRP$	nmod:poss	14	O	 (NP (PRP$ its)	69	1
+35	14	coffee	coffee	NN	nmod	11	O	 (NN coffee)))	69	1
+35	15	this	this	DT	det	16	DATE	 (NP-TMP (DT this)	69	1
+35	16	year	year	NN	nmod:tmod	11	DATE	 (NN year))	69	1
+35	17	than	than	IN	case	18	O	 (PP (IN than)	69	1
+35	18	last	last	JJ	nmod	11	O	 (NP (JJ last))))))	69	1
+35	19	.	.	.	punct	7	O	 (. .)))	69	1
+36	1	Our	we	PRP$	nmod:poss	3	O	 (ROOT (S (S (NP (PRP$ Our)	70	1
+36	2	coffee	coffee	NN	compound	3	O	 (NN coffee)	70	1
+36	3	growers	grower	NNS	nsubj	4	O	 (NNS growers))	70	1
+36	4	face	face	VBP	root	0	O	 (VP (VBP face)	70	1
+36	5	reductions	reduction	NNS	dobj	4	O	 (NP (NP (NNS reductions))	70	1
+36	6	in	in	IN	case	8	O	 (PP (IN in)	70	1
+36	7	their	they	PRP$	nmod:poss	8	O	 (NP (PRP$ their)	70	1
+36	8	income	income	NN	nmod	5	O	 (NN income))))))	70	1
+36	9	,	,	,	punct	4	O	 (, ,)	70	1
+36	10	and	and	CC	cc	4	O	 (CC and)	71	1
+36	11	this	this	DT	nsubj	12	O	 (S (NP (DT this))	71	1
+36	12	tempts	tempt	VBZ	conj	4	O	 (VP (VBZ tempts)	71	1
+36	13	them	they	PRP	dobj	12	O	 (S (NP (PRP them))	71	1
+36	14	to	to	TO	mark	15	O	 (VP (TO to)	71	1
+36	15	contemplate	contemplate	VB	xcomp	12	O	 (VP (VB contemplate)	71	1
+36	16	substituting	substitute	VBG	xcomp	15	O	 (S (VP (VBG substituting)	71	1
+36	17	coca	coca	NN	compound	18	O	 (NP (NN coca)	71	1
+36	18	crops	crop	NNS	dobj	16	O	 (NNS crops))	71	1
+36	19	for	for	IN	case	20	O	 (PP (IN for)	71	1
+36	20	coffee	coffee	NN	nmod	16	O	 (NP (NN coffee))))))))))	71	1
+36	21	.	.	.	punct	4	O	 (. .)))	71	1
+37	1	U.S.	U.S.	NNP	compound	2	LOCATION	 (ROOT (S (NP (NNP U.S.)	72	1
+37	2	interests	interest	NNS	nsubj	4	O	 (NNS interests))	72	1
+37	3	occasionally	occasionally	RB	advmod	4	O	 (ADVP (RB occasionally))	72	1
+37	4	try	try	VBP	root	0	O	 (VP (VBP try)	72	1
+37	5	to	to	TO	mark	6	O	 (S (VP (TO to)	72	1
+37	6	impose	impose	VB	xcomp	4	O	 (VP (VB impose)	72	1
+37	7	barriers	barrier	NNS	dobj	6	O	 (NP (NNS barriers))	72	1
+37	8	to	to	TO	case	10	O	 (PP (TO to)	72	1
+37	9	the	the	DT	det	10	O	 (NP (NP (DT the)	72	1
+37	10	import	import	NN	nmod	6	O	 (NN import))	72	1
+37	11	of	of	IN	case	15	O	 (PP (IN of)	72	1
+37	12	another	another	DT	det	15	O	 (NP (NP (DT another)	72	1
+37	13	important	important	JJ	amod	15	O	 (JJ important)	72	1
+37	14	Colombian	colombian	JJ	amod	15	MISC	 (JJ Colombian)	72	1
+37	15	export	export	NN	nmod	10	O	 (NN export))	72	1
+37	16	--	--	:	punct	18	O	 (PRN (: --)	73	1
+37	17	cut	cut	JJ	amod	18	O	 (NP (JJ cut)	73	1
+37	18	flowers	flower	NNS	dep	15	O	 (NNS flowers))	73	1
+37	19	--	--	:	punct	18	O	 (: --))))))	73	1
+37	20	into	into	IN	case	23	O	 (PP (IN into)	74	1
+37	21	the	the	DT	det	23	O	 (NP (DT the)	74	1
+37	22	American	american	JJ	amod	23	MISC	 (JJ American)	74	1
+37	23	market	market	NN	nmod	6	O	 (NN market)))))))	74	1
+37	24	.	.	.	punct	4	O	 (. .)))	74	1
+38	1	A	a	DT	det	3	O	 (ROOT (S (NP (NP (DT A)	75	1
+38	2	just	just	JJ	amod	3	O	 (JJ just)	75	1
+38	3	price	price	NN	nsubj	17	O	 (NN price))	75	1
+38	4	and	and	CC	cc	3	O	 (CC and)	75	1
+38	5	an	a	DT	det	7	O	 (NP (NP (DT an)	75	1
+38	6	open	open	JJ	amod	7	O	 (JJ open)	75	1
+38	7	market	market	NN	conj	3	O	 (NN market))	75	1
+38	8	for	for	IN	case	9	O	 (SBAR (WHPP (IN for)	76	1
+38	9	what	what	WP	nmod	11	O	 (WHNP (WP what)))	76	1
+38	10	Colombian	colombian	JJ	nsubj	11	MISC	 (S (NP (JJ Colombian))	76	1
+38	11	produces	produce	VBZ	acl:relcl	7	O	 (VP (VP (VBZ produces))	76	1
+38	12	and	and	CC	cc	11	O	 (CC and)	76	1
+38	13	exports	export	VBZ	conj	11	O	 (VP (VBZ exports)))))))	76	1
+38	14	should	should	MD	aux	17	O	 (VP (MD should)	77	1
+38	15	be	be	VB	cop	17	O	 (VP (VB be)	77	1
+38	16	the	the	DT	det	17	O	 (NP (NP (DT the)	77	1
+38	17	policy	policy	NN	root	0	O	 (NN policy))	77	1
+38	18	of	of	IN	case	20	O	 (PP (IN of)	77	1
+38	19	the	the	DT	det	20	O	 (NP (DT the)	77	1
+38	20	U.S.	U.S.	NNP	nmod	17	LOCATION	 (NNP U.S.)))	77	1
+38	21	I	I	PRP	nsubj	22	O	 (SBAR (S (NP (PRP I))	78	1
+38	22	take	take	VBP	acl:relcl	17	O	 (VP (VBP take)	78	1
+38	23	advantage	advantage	NN	dobj	22	O	 (NP (NP (NN advantage))	78	1
+38	24	of	of	IN	case	26	O	 (PP (IN of)	78	1
+38	25	this	this	DT	det	26	O	 (NP (NP (DT this)	78	1
+38	26	opportunity	opportunity	NN	nmod	23	O	 (NN opportunity))	78	1
+38	27	given	give	VBN	acl	26	O	 (VP (VBN given)	79	1
+38	28	to	to	TO	case	29	O	 (PP (TO to)	79	1
+38	29	me	I	PRP	nmod	27	O	 (NP (PRP me)))	79	1
+38	30	by	by	IN	case	34	O	 (PP (IN by)	79	1
+38	31	The	the	DT	det	34	O	 (NP (DT The)	79	1
+38	32	Wall	Wall	NNP	compound	34	ORGANIZATION	 (NNP Wall)	79	1
+38	33	Street	Street	NNP	compound	34	ORGANIZATION	 (NNP Street)	79	1
+38	34	Journal	Journal	NNP	nmod	27	ORGANIZATION	 (NNP Journal)))	79	1
+38	35	to	to	TO	mark	36	O	 (S (VP (TO to)	80	1
+38	36	make	make	VB	xcomp	27	O	 (VP (VB make)	80	1
+38	37	a	a	DT	det	38	O	 (NP (DT a)	80	1
+38	38	plea	plea	NN	dobj	36	O	 (NN plea))	80	1
+38	39	to	to	TO	case	41	O	 (PP (TO to)	80	1
+38	40	the	the	DT	det	41	O	 (NP (NP (DT the)	80	1
+38	41	millions	million	NNS	nmod	36	O	 (NNS millions))	80	1
+38	42	of	of	IN	case	43	O	 (PP (IN of)	80	1
+38	43	readers	reader	NNS	nmod	41	O	 (NP (NP (NNS readers))	80	1
+38	44	of	of	IN	case	46	O	 (PP (IN of)	80	1
+38	45	this	this	DT	det	46	O	 (NP (DT this)	80	1
+38	46	newspaper	newspaper	NN	nmod	43	O	 (NN newspaper))))))))))	80	1
+38	47	,	,	,	punct	27	O	 (, ,)	80	1
+38	48	to	to	TO	mark	49	O	 (S (VP (TO to)	81	1
+38	49	become	become	VB	xcomp	27	O	 (VP (VB become)	81	1
+38	50	soldiers	soldier	NNS	xcomp	49	O	 (NP (NP (NNS soldiers))	81	1
+38	51	dedicated	dedicate	VBN	acl	50	O	 (VP (VBN dedicated)	82	1
+38	52	to	to	TO	case	54	O	 (PP (TO to)	82	1
+38	53	the	the	DT	det	54	O	 (NP (NP (DT the)	82	1
+38	54	fight	fight	NN	nmod	51	O	 (NN fight))	82	1
+38	55	against	against	IN	case	57	O	 (PP (IN against)	82	1
+38	56	the	the	DT	det	57	O	 (NP (NP (DT the)	82	1
+38	57	use	use	NN	nmod	54	O	 (NN use))	82	1
+38	58	of	of	IN	case	59	O	 (PP (IN of)	82	1
+38	59	drugs	drug	NNS	nmod	57	O	 (NP (NNS drugs))))))))))))))))))))))	82	1
+38	60	.	.	.	punct	17	O	 (. .)))	82	1
+39	1	Each	each	DT	det	2	O	 (ROOT (S (NP (NP (DT Each)	83	1
+39	2	gram	gram	NN	nsubj	9	O	 (NN gram))	83	1
+39	3	of	of	IN	case	4	O	 (PP (IN of)	83	1
+39	4	cocaine	cocaine	NN	nmod	2	O	 (NP (NP (NN cocaine))	83	1
+39	5	consumed	consume	VBN	acl	4	O	 (VP (VBN consumed)))))	83	1
+39	6	is	be	VBZ	cop	9	O	 (VP (VBZ is)	83	1
+39	7	a	a	DT	det	9	O	 (NP (NP (DT a)	83	1
+39	8	deadly	deadly	JJ	amod	9	O	 (JJ deadly)	83	1
+39	9	bullet	bullet	NN	root	0	O	 (NN bullet))	83	1
+39	10	against	against	IN	case	11	O	 (PP (PP (IN against)	83	1
+39	11	those	those	DT	nmod	9	O	 (NP (NP (DT those))	83	1
+39	12	in	in	IN	case	14	O	 (PP (IN in)	83	1
+39	13	our	we	PRP$	nmod:poss	14	O	 (NP (PRP$ our)	83	1
+39	14	country	country	NN	nmod	11	O	 (NN country)))))	83	1
+39	15	and	and	CC	cc	11	O	 (CC and)	83	1
+39	16	in	in	IN	case	18	O	 (PP (IN in)	83	1
+39	17	the	the	DT	det	18	O	 (NP (NP (DT the)	83	1
+39	18	rest	rest	NN	conj	11	O	 (NN rest))	83	1
+39	19	of	of	IN	case	21	O	 (PP (IN of)	83	1
+39	20	the	the	DT	det	21	O	 (NP (NP (DT the)	83	1
+39	21	world	world	NN	nmod	18	O	 (NN world))	83	1
+39	22	who	who	WP	nsubj	23	O	 (SBAR (WHNP (WP who))	84	1
+39	23	fight	fight	VBP	acl:relcl	21	O	 (S (VP (VBP fight)	84	1
+39	24	this	this	DT	det	26	O	 (NP (DT this)	84	1
+39	25	terrible	terrible	JJ	amod	26	O	 (JJ terrible)	84	1
+39	26	scourge	scourge	NN	dobj	23	O	 (NN scourge))))))))))))	84	1
+39	27	.	.	.	punct	9	O	 (. .)))	84	1
+40	1	A	a	DT	det	2	O	 (ROOT (S (NP (NP (DT A)	85	1
+40	2	crusade	crusade	NN	nsubj	11	O	 (NN crusade))	85	1
+40	3	of	of	IN	case	4	O	 (PP (IN of)	85	1
+40	4	NO	no	NN	nmod	2	O	 (NP (NP (NN NO))	85	1
+40	5	to	to	TO	case	7	O	 (PP (TO to)	85	1
+40	6	the	the	DT	det	7	O	 (NP (NP (DT the)	85	1
+40	7	consumption	consumption	NN	nmod	4	O	 (NN consumption))	85	1
+40	8	of	of	IN	case	9	O	 (PP (IN of)	85	1
+40	9	drugs	drug	NNS	nmod	7	O	 (NP (NNS drugs))))))))	85	1
+40	10	is	be	VBZ	cop	11	O	 (VP (VBZ is)	85	1
+40	11	imperative	imperative	JJ	root	0	O	 (ADJP (JJ imperative)))	85	1
+40	12	.	.	.	punct	11	O	 (. .)))	85	1
+41	1	Mr.	Mr.	NNP	compound	2	O	 (ROOT (S (NP (NNP Mr.)	86	1
+41	2	Cano	Cano	NNP	nsubj	4	PERSON	 (NNP Cano))	86	1
+41	3	is	be	VBZ	cop	4	O	 (VP (VBZ is)	86	1
+41	4	president	president	NN	root	0	O	 (NP (NP (NN president))	86	1
+41	5	of	of	IN	case	7	O	 (PP (IN of)	86	1
+41	6	El	El	NNP	compound	7	LOCATION	 (NP (NP (NNP El)	86	1
+41	7	Espectador	Espectador	NNP	nmod	4	LOCATION	 (NNP Espectador))	86	1
+41	8	,	,	,	punct	7	O	 (, ,)	86	1
+41	9	a	a	DT	det	10	O	 (NP (NP (DT a)	86	1
+41	10	newspaper	newspaper	NN	appos	7	O	 (NN newspaper))	86	1
+41	11	founded	found	VBN	acl	10	O	 (VP (VBN founded)	87	1
+41	12	by	by	IN	nmod	11	O	 (PP (IN by))))))))))	87	1
