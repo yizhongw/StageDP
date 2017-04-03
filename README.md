@@ -13,7 +13,6 @@ The best-trained models are put in the `data/model` folder. Due to the licence o
     
     ```
     python3 preprocess.py [-h] --data_dir DATA_DIR --corenlp_dir CORENLP_DIR
-
     ```
 
 2. Extract feature templates, action maps and relation maps:
