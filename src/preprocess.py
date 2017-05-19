@@ -5,9 +5,6 @@
 
 import argparse
 import os
-
-from models.tree import RstTree
-from utils.document import Doc
 from utils.xmlreader import reader, writer, combine
 
 

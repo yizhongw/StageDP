@@ -45,7 +45,7 @@ class RstTree(object):
         # Read doc file
         if isfile(self.fmerge):
             doc = Doc()
-            doc.read(self.fmerge)
+            doc.read_from_fmerge(self.fmerge)
             self.doc = doc
         else:
             raise IOError("File doesn't exist: {}".format(self.fmerge))
@@ -113,6 +113,11 @@ class RstTree(object):
             else:
                 raise ValueError("Can not decode Shift-Reduce action")
         return action_list, relation_list
+
+    def convert_node_to_str(self, node, sep=' '):
+        text = node.text
+        words = [self.doc.token_dict[tidx].word for tidx in text]
+        return sep.join(words)
 
     @staticmethod
     def get_edu_node(tree):
@@ -495,22 +500,22 @@ class RstTree(object):
         """
         return rel2class[s.lower()]
 
-    @staticmethod
-    def get_parse(tree):
+    def get_parse(self):
         """ Get parse tree
 
         :type tree: SpanNode instance
         :param tree: an binary RST tree
         """
         parse = []
-        node_list = [tree]
+        node_list = [self.tree]
         while node_list:
             node = node_list.pop()
             if node == ' ) ':
                 parse.append(' ) ')
                 continue
             if (node.lnode is None) and (node.rnode is None):
-                parse.append(" ( EDU " + str(node.nuc_edu))
+                # parse.append(" ( EDU " + str(node.nuc_edu))
+                parse.append(" ( EDU " + '_!' + self.convert_node_to_str(node, sep='_') + '!_')
             else:
                 parse.append(" ( " + node.form)
                 # get the relation from its satellite node
@@ -532,7 +537,7 @@ class RstTree(object):
     def draw_rst(self, fname):
         """ Draw RST tree into a file
         """
-        tree_str = RstTree.get_parse(self.tree)
+        tree_str = self.get_parse()
         if not fname.endswith(".ps"):
             fname += ".ps"
         cf = CanvasFrame()

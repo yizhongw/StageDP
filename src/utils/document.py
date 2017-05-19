@@ -19,10 +19,8 @@ class Doc(object):
         self.rel_paris = None
         self.fmerge = None
 
-    def read(self, fmerge):
-        """ Read information from the merge file, and create
-            an Doc instance
-
+    def read_from_fmerge(self, fmerge):
+        """ Read information from the merge file, and create an Doc instance
         :type fmerge: string
         :param fmerge: merge file name
         """
@@ -35,14 +33,18 @@ class Doc(object):
                 line = line.strip()
                 if len(line) == 0:
                     continue
-                tok = self._parse_line(line)
+                tok = self._parse_fmerge_line(line)
                 self.token_dict[gidx] = tok
                 gidx += 1
         # Get EDUs from tokendict
         self.edu_dict = self._recover_edus(self.token_dict)
 
+    def init_from_tokens(self, token_list):
+        self.token_dict = {idx: token for idx, token in enumerate(token_list)}
+        self.edu_dict = self._recover_edus(self.token_dict)
+
     @staticmethod
-    def _parse_line(line):
+    def _parse_fmerge_line(line):
         """ Parse one line from *.merge file
         """
         items = line.split("\t")
@@ -64,6 +66,16 @@ class Doc(object):
             # sys.exit()
             pass
         return tok
+
+    def to_conll(self):
+        conll_str = ''
+        for idx, token in self.token_dict.items():
+            conll_str += '{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format(token.sidx, token.tidx, token.word,
+                                                                               token.lemma, token.pos,
+                                                                               token.dep_label, token.hidx, token.ner,
+                                                                               token.partial_parse, token.eduidx,
+                                                                               token.pidx)
+        return conll_str
 
     @staticmethod
     def write_line(token_list, file):
@@ -94,5 +106,5 @@ class Doc(object):
 if __name__ == '__main__':
     doc = Doc()
     fmerge = "../data/training/file1.merge"
-    doc.read(fmerge)
+    doc.read_from_fmerge(fmerge)
     print(len(doc.edudict))

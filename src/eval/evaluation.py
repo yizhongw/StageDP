@@ -17,35 +17,20 @@ class Evaluator(object):
         self.parser.load(model_dir)
 
     def parse(self, doc):
-        """ Parse one document using the given parsing models
-
-        :type pm: RstParser
-        :param pm: an well-trained parsing models
-
-        :type fedus: string
-        :param fedus: file name of an document (with segmented EDUs)
-        """
+        """ Parse one document using the given parsing models"""
         pred_rst = self.parser.sr_parse(doc)
         return pred_rst
 
     @staticmethod
     def writebrackets(fname, brackets):
-        """ Write the bracketing results into file
-        """
+        """ Write the bracketing results into file"""
         # print('Writing parsing results into file: {}'.format(fname))
         with open(fname, 'w') as fout:
             for item in brackets:
                 fout.write(str(item) + '\n')
 
     def eval_parser(self, path='./examples', report=False, bcvocab=None, draw=True):
-        """ Test the parsing performance
-
-        :type path: string
-        :param path: path to the eval data
-
-        :type report: boolean
-        :param report: whether to report (calculate) the f1 score
-        """
+        """ Test the parsing performance"""
         # Evaluation
         met = Metrics(levels=['span', 'nuclearity', 'relation'])
         # ----------------------------------------
@@ -58,7 +43,7 @@ class Evaluator(object):
             # ----------------------------------------
             # Read *.merge file
             doc = Doc()
-            doc.read(fmerge)
+            doc.read_from_fmerge(fmerge)
             # ----------------------------------------
             # Parsing
             pred_rst = self.parser.sr_parse(doc, bcvocab)
